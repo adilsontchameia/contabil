@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.juros">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".calculadoras.AnosMeses" />
+        <activity android:name=".main.MainActivity" />
+        <activity android:name=".main.Desenvolvedor" />
+        <activity android:name=".informacoes.Z" />
+        <activity android:name=".informacoes.Y" />
+        <activity android:name=".informacoes.X" />
+        <activity android:name=".informacoes.W" />
+        <activity android:name=".informacoes.V" />
+        <activity android:name=".informacoes.U" />
+        <activity android:name=".informacoes.T" />
+        <activity android:name=".informacoes.S" />
+        <activity android:name=".informacoes.Re" />
+        <activity android:name=".informacoes.Q" />
+        <activity android:name=".informacoes.P" />
+        <activity android:name=".informacoes.O" />
+        <activity android:name=".informacoes.N" />
+        <activity android:name=".informacoes.M" />
+        <activity android:name=".informacoes.L" />
+        <activity android:name=".informacoes.K" />
+        <activity android:name=".informacoes.J" />
+        <activity android:name=".informacoes.I" />
+        <activity android:name=".informacoes.H" />
+        <activity android:name=".informacoes.G" />
+        <activity android:name=".informacoes.F" />
+        <activity android:name=".informacoes.E" />
+        <activity android:name=".informacoes.D" />
+        <activity android:name=".informacoes.C" />
+        <activity android:name=".informacoes.B" />
+        <activity android:name=".informacoes.ExpressoesA" />
+        <activity android:name=".main.Sobre" />
+        <activity android:name=".calculadoras.Iva" />
+        <activity android:name=".calculadoras.Iss" />
+        <activity android:name=".calculadoras.Irt" />
+        <activity android:name=".main.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".informacoes.Expressoes" />
+        <activity android:name=".calculadoras.Porcentagem" />
+        <activity android:name=".calculadoras.JurosSimples" />
+        <activity android:name=".calculadoras.JurosCompostos" />
+    </application>
+
+</manifest>

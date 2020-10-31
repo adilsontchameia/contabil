@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".main.Splash">
+
+
+        <ImageView
+            android:layout_marginTop="230dp"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:src="@drawable/logoo"
+            android:contentDescription="@string/logo" />
+
+    <com.agrawalsuneet.dotsloader.loaders.LazyLoader
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_marginTop="30dp"
+        app:lazyloader_animDur="800"
+        android:contentDescription="@string/dots"
+        app:lazyloader_dotsDist="30dp"
+        app:lazyloader_dotsRadius="6dp"
+        app:lazyloader_firstDelayDur="440"
+        android:layout_gravity="center"
+        app:lazyloader_firstDotColor="@color/colorPrimary"
+        app:lazyloader_interpolator="@android:anim/decelerate_interpolator"
+        app:lazyloader_secondDelayDur="300"
+        app:lazyloader_secondDotColor="@color/colorPrimaryDark"
+        app:lazyloader_thirdDotColor="@color/result"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/wesplash"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:contentDescription="@string/we_code_logo" />
+</LinearLayout>

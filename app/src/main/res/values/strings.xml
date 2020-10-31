@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Mini Contábil</string>
+    <string name="titulo">Mini Contábil</string>
+    <string name="subtitulo">Seu Mini Guia de Contabilidade</string>
+    <string name="preencha">Calculadora de Juros Simples</string>
+    <string name="valor">valor</string>
+    <string name="tempo">tempo</string>
+    <string name="valor_monetario">Valor Monetário Concedido</string>
+    <string name="tempo_do_emprestimo">Tempo do Emprestimo</string>
+    <string name="calcular">calcular</string>
+    <string name="limpar">limpar</string>
+    <string name="taxa_total">Taxa Total</string>
+    <string name="valor_taxa">Valor + Taxa</string>
+    <string name="taxa_de_juros">Taxa de Juros</string>
+    <string name="_0_0">0.0</string>
+    <string name="porcento">0%</string>
+    <string name="open_drawer">abrir</string>
+    <string name="close_drawer">fechar</string>
+    <string name="inicio">Início</string>
+    <string name="calculadoras">Calculadoras</string>
+    <string name="porcentagem">Porcentagem</string>
+    <string name="juros_simples">Juros Simples</string>
+    <string name="juros_compostos">Juros Compostos</string>
+    <string name="irt">IRT</string>
+    <string name="iss">ISS</string>
+    <string name="iva">IVA</string>
+    <string name="anos_meses">Anos / Meses</string>
+    <string name="informa_o">Informação</string>
+    <string name="sobre_o_aplicativo">Sobre o Aplicativo</string>
+    <string name="desenvolvedor">Desenvolvedor</string>
+    <string name="contactos">Contactos</string>
+    <string name="dev_description">Este Aplicativo foi Desenvolvido por Adilson Kamati Chameia, Jovem Atualmente Residente na Provinciao do Cuando Cubango - Menongue, Jovem Atualmente Atuando Como:\n\n
+        Estudante de Informática para Gestão - Universidade Cuito Cuanavale;\n" Designer Gráfico;\n Programador Android Nativo;\n CEO do Grupo de Desenvolvedores - We Code.</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="h">H</string>
+    <string name="k">K</string>
+    <string name="o">O</string>
+    <string name="i">I</string>
+    <string name="l">L</string>
+    <string name="n">N</string>
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="m">M</string>
+    <string name="j">J</string>
+    <string name="g">G</string>
+    <string name="f">F</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+    <string name="c">C</string>
+    <string name="mini_vocabulio">Mini Vocabulário De Contabilidade</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="info">Mini-Contábil, é um aplicativo chegado totalmente à contabilidade, com a função de ajudar a compreender melhor alguns vocabulos usados no dia-dia da contabilidade.
+        Não só, esse aplicativo ajuda os usuários a realizarem cálculos contabilisticos, simples mais muito interativos, como porcentagem, juros simples, juros compostos, IVA, e outros.
+        Espero que goste de aplicativo, elaborado especialmente pra ti, caro usuário, estudante, amante de contabilidade.\n Developed by: Adilson Chameia - We Code.\n App Version: 1.0.\n Logo Concept by: Adilson Desing.\n Icons: All Icons Was Designer By Adilson Design, except Home(DrawerIcon) that provides from Android Studio.\n\ UI/UX Concept by: Adilson Design.\n Aproved by: Teacher and Dev.</string>
+    <string name="we_code_logo">we code logo</string>
+    <string name="logo">logo</string>
+    <string name="dots">dots</string>
+</resources>

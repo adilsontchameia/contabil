@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home"
+            android:title="@string/inicio" />
+    </group>
+
+    <item android:title="@string/calculadoras">
+        <menu>
+            <item
+                android:id="@+id/nav_porcento"
+                android:icon="@drawable/por"
+                android:title="@string/porcentagem" />
+            <item
+                android:id="@+id/nav_simples"
+                android:icon="@drawable/js"
+                android:title="@string/juros_simples" />
+            <item
+                android:id="@+id/nav_compostos"
+                android:icon="@drawable/jc"
+                android:title="@string/juros_compostos" />
+            <item
+                android:id="@+id/nav_irt"
+                android:icon="@drawable/irt"
+                android:title="@string/irt" />
+            <item
+                android:id="@+id/nav_iss"
+                android:icon="@drawable/iss"
+                android:title="@string/iss" />
+            <item
+                android:id="@+id/nav_iva"
+                android:icon="@drawable/iva"
+                android:title="@string/iva" />
+            <item
+                android:id="@+id/nav_year"
+                android:icon="@drawable/iva"
+                android:title="@string/anos_meses" />
+        </menu>
+    </item>
+
+
+    <item android:title="@string/informa_o">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="@string/sobre_o_aplicativo" />
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@drawable/ic_pessoa"
+                android:title="@string/desenvolvedor" />
+        </menu>
+    </item>
+</menu>
