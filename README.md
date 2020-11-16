@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Im Adilson CHameia</h1>
+<h1 align="center">Hi 👋, Im Adilson Chameia</h1>
 <h3 align="center">A young boy that loves technology</h3>
 
 - 🌱 I’m currently learning **Flutter, Node.js, JavaScript**
